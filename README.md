@@ -1,4 +1,5 @@
 # GitPractice3.30.2021
+
 Class Repository for Git Practice
 Papa Ghansah
 Jeremy Sawyer
@@ -10,7 +11,7 @@ Brenda Lee Bunze
 Patrick davis
 Howard Raver
 Shawn Ballard
-Liso 
+Liso
 Noe Gonzalez
 Jahari Crawford
 Ashley VanWagenen
@@ -22,3 +23,5 @@ Tashi Paljor
 Gaby Hall
 Braulio
 Emily Bryan
+
+1. Lee is adding his name for a second time
