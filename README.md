@@ -25,4 +25,12 @@ Braulio
 Emily Bryan
 
 1. Lee is adding his name for a second time
-2. Noe is adding his name for second time
+   <<<<<<< HEAD
+
+=======
+<<<<<<< HEAD 2. jeremy again
+3.Ashley VanWagenen
+
+4 Noe is adding his name for second time
+
+> > > > > > > 1d4b21fbe60c527ee6613eda4c14d67e11ceaf89
