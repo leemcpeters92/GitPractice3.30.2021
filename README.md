@@ -17,6 +17,6 @@ Ashley VanWagenen
 Val Hallman
 Gideon Coffin
 Emmanuel Mandevu
-
+Lydia De Jesus
 
 Gaby Hall
