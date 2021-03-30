@@ -25,4 +25,8 @@ Braulio
 Emily Bryan
 
 1. Lee is adding his name for a second time
+<<<<<<< HEAD
 2. jeremy again
+=======
+Ashley VanWagenen
+>>>>>>> ac463dc8ddf56b07b75f0eeab89713ba8ff3159d
