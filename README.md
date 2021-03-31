@@ -25,4 +25,16 @@ Braulio
 Emily Bryan
 
 1. Lee is adding his name for a second time
-2. Gideon is adding his name for a second time
+<<<<<<< HEAD
+=======
+   <<<<<<< HEAD
+
+=======
+<<<<<<< HEAD 2. jeremy again
+3.Ashley VanWagenen
+
+4 Noe is adding his name for second time
+
+5 Papa again
+>>>>>>> b73fc0b0e93179a0dcc421a4fc655ff2051d2249
+6. Gideon adding his name for a second time.
