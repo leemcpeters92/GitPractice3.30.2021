@@ -50,6 +50,10 @@ Emily Bryan
 
 7. Emily
 
+<<<<<<< HEAD
 
 
 8. Brenda this is second name
+=======
+8. Lydia
+>>>>>>> 7e402e4476b02b9c74283588dffd8aca0ab25c84
